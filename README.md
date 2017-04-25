@@ -9,7 +9,7 @@ Stage: [https://air.allizom.org](https://air.allizom.org)
 Dev: [https://air-dev.allizom.org](https://air-dev.allizom.org)
 
 Air Mozilla is the Internet multimedia presence of Mozilla, with live and
-pre-recorded shows, interviews, news snippets, tutorial videos, and
+pre-recorded shows, interviews, news snippets, tutorial videos, and other
 features about the Mozilla community.
 
 Wiki page: https://wiki.mozilla.org/Air_Mozilla
